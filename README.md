@@ -1,5 +1,7 @@
 # Font2svg
 
+An innovative solution converting font files to SVGs with components for seamless frontend font rendering.
+
 ## Roadmap
 
 ### font2svg: Main project (ETA: 2024Q2)
