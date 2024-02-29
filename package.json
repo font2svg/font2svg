@@ -1,0 +1,15 @@
+{
+  "name": "font2svg",
+  "version": "0.0.0",
+  "description": "An innovative solution converting font files to SVGs with components for seamless frontend font rendering.",
+  "scripts": {},
+  "keywords": [
+    "font2svg",
+    "font",
+    "svg",
+    "font rendering",
+    "font subsetting"
+  ],
+  "author": "Bean",
+  "license": "MIT"
+}
