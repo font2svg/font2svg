@@ -6,7 +6,7 @@ An innovative solution converting font files to SVGs with components for seamles
 
 ### font2svg
 
-> Main project (ETA: 2024Q2)
+Main project (ETA: 2024Q2)
 
 - packages
   - vue: Vue component
@@ -16,11 +16,15 @@ An innovative solution converting font files to SVGs with components for seamles
 
 ### font2svg-docs
 
-> Homepage & docs with a demo page (ETA:2024Q2)
+Homepage & docs with a demo page (ETA:2024Q2)
 
 ### font2svg-toolkit
 
-> A standalone toolkit without network (ETA: 2024Q3)
+A standalone toolkit without network (ETA: 2024Q3)
 
 - web: Web toolkit page
 - electron: Native toolkit app for mac/win
+
+## License
+
+[MIT](https://github.com/font2svg/font2svg/blob/main/LICENSE) License © 2022 [Bean Deng](https://github.com/HADB)
