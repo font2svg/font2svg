@@ -18,9 +18,9 @@ An innovative solution converting font files to SVGs with components for seamles
 
 > Homepage & docs with a demo page (ETA:2024Q2)
 
-### font2svg-tool
+### font2svg-toolkit
 
-> A standalone tool without network (ETA: 2024Q3)
+> A standalone toolkit without network (ETA: 2024Q3)
 
-- web: Web tool page
-- electron: Native tool app for mac/win
+- web: Web toolkit page
+- electron: Native toolkit app for mac/win
