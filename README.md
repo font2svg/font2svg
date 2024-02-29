@@ -16,7 +16,7 @@ Main project (ETA: 2024Q2)
 
 ### font2svg-docs
 
-Homepage & docs with a demo page (ETA:2024Q2)
+Homepage, demo and docs. (ETA:2024Q2)
 
 ### font2svg-toolkit
 
