@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="180px" src="https://github.com/font2svg/font2svg/assets/1836701/bf958bc8-e375-4c09-9cb9-d7462d217dbc">
+</p>
+
 # Font2svg
 
 An innovative solution converting font files to SVGs with components for seamless frontend font rendering.
