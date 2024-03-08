@@ -8,15 +8,18 @@ An innovative solution converting font files to SVGs with components for seamles
 
 ## Roadmap
 
-### font2svg
+### [font2svg](https://github.com/font2svg/font2svg)
 
-Main project (ETA: 2024Q2)
+Monorepo of frontend projects. (ETA: 2024Q2)
 
 - packages
   - vue: Vue component (@font2svg/vue)
   - react: React component (@font2svg/react)
 - admin: Admin site with a playground page
-- api: Python FastAPI server side
+
+### [font2svg-api](https://github.com/font2svg/font2svg-api)
+
+Server-side project, written in Python. (ETA: 2024Q2)
 
 ### [font2svg-docs](https://github.com/font2svg/font2svg-docs)
 
